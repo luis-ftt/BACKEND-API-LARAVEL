@@ -27,6 +27,7 @@ Este projeto é uma API de autenticação desenvolvida em Laravel, utilizando o 
 ## 🔧 Instalação
 
 1. Clone o repositório:
+2. Necessário usar o token para editar o nome do usuário/logout
 
 ```bash
 git clone https://github.com/seu-usuario/laravel-auth-api.git
